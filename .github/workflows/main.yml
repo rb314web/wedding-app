@@ -33,4 +33,6 @@ jobs:
           server: ${{ secrets.FTP_SERWER }} 
           username: ${{ secrets.FTP_LOGIN }}
           password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: ./domains/radekbrz.smallhost.pl/public_html
+          local-dir: build/
 
