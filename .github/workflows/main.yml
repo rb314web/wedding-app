@@ -33,6 +33,6 @@ jobs:
           server: ${{ secrets.REACT_FTP_SERWER }} 
           username: ${{ secrets.REACT_FTP_LOGIN }}
           password: ${{ secrets.REACT_FTP_PASSWORD }}
-          server-dir: ./domains/radekbrz.smallhost.pl/public_html/
+          server-dir: ./public_html/
           local-dir: build/
 
