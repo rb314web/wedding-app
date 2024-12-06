@@ -6,7 +6,7 @@ const AreYouOla: React.FC = () => {
   if (answer === 'Tak') {
     return (
       <div style={styles.fullScreenRed}>
-        <p style={styles.fullScreenText}>🩷🩷🩷 Kocham Cię 🩷🩷🩷</p>
+        <p style={styles.fullScreenText}>🩷🩷 Kocham Cię 🩷🩷</p>
       </div>
     );
   }
