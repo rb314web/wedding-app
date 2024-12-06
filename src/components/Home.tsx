@@ -1,11 +1,12 @@
 import React from 'react';
+import AreYouOla from './AreYouOla';
 
 const Home: React.FC = () => {
   return (
     <div>
-      <h1>Welcome to the home page!</h1>
-      <p>This content is only visible to logged-in users.</p>
-    </div>
+    <AreYouOla />
+    <p>hmjcxdfghjkljnbhgvfrtyuihjgyuihjggyuhgjyuhjgyuhguyghbbbgbvgbvgvbty</p>
+  </div>
   );
 };
 
