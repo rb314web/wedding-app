@@ -5,7 +5,6 @@ const Home: React.FC = () => {
   return (
     <div>
     <AreYouOla />
-    <p>hmjcxdfghjkljnbhgvfrtyuihjgyuihjggyuhgjyuhjgyuhguyghbbbgbvgbvgvbty</p>
   </div>
   );
 };
