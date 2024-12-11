@@ -9,6 +9,7 @@ function Navbar() {
         <li><a href="/">Strona główna</a></li>
         <li><a href="/">O nas</a></li>
         <li><a href="/">Kontakt</a></li>
+        <li><a className='login' href="/">Logowanie</a></li>
       </ul>
     </nav>
   );
