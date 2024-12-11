@@ -1,9 +1,6 @@
 import React from "react";
 import "../assets/style/Hero.scss";
-import myImage from "../assets/images/wedding-5156639_1280.jpg";
 
-const title = "tekst1";
-const subtitle = "tekst2";
 
 const HeroSection = () => {
   return (
