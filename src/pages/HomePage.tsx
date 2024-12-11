@@ -1,5 +1,5 @@
 import React from 'react';
-// import Header from '../components/Header';
+import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 // import AboutUs from '../components/AboutUs';
 // import Gallery from '../components/Gallery';
@@ -9,7 +9,7 @@ import Hero from '../components/Hero';
 const HomePage: React.FC = () => {
   return (
     <div>
-      {/* <Header /> */}
+      <Navbar />
       <Hero />
       {/* <AboutUs /> */}
       {/* <Gallery /> */}
